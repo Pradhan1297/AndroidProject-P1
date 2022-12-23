@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project1(CS478)</string>
+    <string name="button1">Enter Number</string>
+    <string name="button2">Open Dialer</string>
+    <string name="enter_contact_info">Enter Phone Number</string>
+    <string name="welcome">Welcome to Project 1!</string>
+</resources>
